@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LabActivty5</string>
+    <string name="saskPop">Population: 342,000</string>
+    <string name="saskClimate">Climate Type: Cold Semi-Arid</string>
+    <string name="kelownaPop">Population: 160,507</string>
+    <string name="kelowClimate">Climate Type: Inland Ocean</string>
+    <string name="vanPop">Population: 2,657,000</string>
+    <string name="vanClimate">Climate Type: Oceanic</string>
+    <string name="stjPop">Population: 224,000</string>
+    <string name="stjClimate">Climate Type: Humid Continental</string>
+    <string name="torontoPop">Population: 6,372,000</string>
+    <string name="torontoClimate">Climate Type: Continental</string>
+    <string name="homeScreen">Return</string>
+
+</resources>
